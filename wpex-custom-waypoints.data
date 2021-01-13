@@ -43,7 +43,7 @@
   },
   {
     "Syntax": ["horsetail", "ht"],
-    "Icon": "star",
+    "Icon": "star2",
     "Colour": "lawngreen",
     "DefaultTitle": "horsetail"
   },
