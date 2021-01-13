@@ -41,4 +41,10 @@
     "Colour": "plum",
     "DefaultTitle": "Fruit"
   },
+  {
+    "Syntax": ["horsetail", "ht"],
+    "Icon": "star",
+    "Colour": "lawngreen",
+    "DefaultTitle": "horsetail"
+  },
 ]
